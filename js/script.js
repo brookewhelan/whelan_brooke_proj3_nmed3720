@@ -10,7 +10,7 @@ function setup() {
     var cnv = createCanvas(windowWidth / 2, windowHeight / 2);
     angleMode(DEGREES);
     cnv.parent("p5canvas");
-
+background(255);
     
 
 
