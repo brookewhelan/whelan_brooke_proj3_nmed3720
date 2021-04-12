@@ -1,0 +1,74 @@
+body {
+    margin: auto;
+
+}
+
+h1 {
+    font-family: 'Archivo Black', sans-serif;
+    text-align: center;
+    font-size: 32px;
+    color: #3b3945;
+    padding-bottom: 20em;
+    width: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+p {
+    font-family: 'Archivo Black', sans-serif;
+    text-align: center;
+    font-size: 14px;
+    color: #3b3945;
+    padding-bottom: 37em;
+    width: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+}
+
+#p5canvas {
+    margin: auto;
+    padding-top: 20em;
+    padding-bottom: 15em;
+    width: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/* BUTTON CODE INSPO BY Chilly */
+/* https://codepen.io/ichoosesunny/pen/YGzRaJ */
+
+main{
+       padding-top: 700px;
+    padding-left: 400px;
+}
+
+button {
+    
+    color: white;
+    margin: 5px;
+    height: 4em;
+    width: 10%;
+    padding: 5px;
+    background-color: #3b3945;
+    border: none;
+    border-radius: 3px;
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
+    transition: all 0.2s cubic-bezier(.4, 0, .2, 1);
+
+}
+
+button:hover {
+    color: white;
+    letter-spacing: 0.8em;
+    background-color: #625d78;
+}
+
+
