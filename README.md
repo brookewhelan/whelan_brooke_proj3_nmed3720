@@ -1,9 +1,9 @@
-# Brooke's Face Tracker Project
+# Brooke's Draw With Your Nose Project
 
-This project has the user type in a city into the search bar and based on the temperature will suggest a certain coffee to warm you up or cool you down.
+This project has the user use their webcam to draw kaleidoscope art with their nose. You can save your artwork, change the brush size, or clear your canvas.
 
-Here is a inspiration photo I liked the style of drawing for the coffee.
-[Iced Coffee Design by feliciasdesigns](https://www.redbubble.com/i/sticker/Iced-Coffee-by-feliciasdesigns/23330393.EJUG5)
+Here is a link to some button inspiration / code I used.
+[Button design by Chilly](https://codepen.io/ichoosesunny/pen/YGzRaJ)
 
-Here is a link to some code that I used for the search bar.
-[Search Bar by Emily Huang](https://codepen.io/huange/pen/rbqsD)
+Here is a link to some code I used for the Kaleidoscope portion of the website.
+[Kaleidoscope Code from p5.js](https://p5js.org/examples/interaction-kaleidoscope.html)
